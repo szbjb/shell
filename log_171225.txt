@@ -1,0 +1,7 @@
+-rwxr--r-- 1 root root 277 12月 25 19:01 /root/test10.sh
+-rwxr--r-- 1 root root 341 12月 25 20:52 /root/test11.sh
+-rwxr--r-- 1 root root 219 12月 25 21:18 /root/test12.sh
+-rwxr--r-- 1 root root   0 12月 25 17:31 /root/test6.sh
+-rwxr--r-- 1 root root 207 12月 25 18:04 /root/test7.sh
+-rwxr--r-- 1 root root 130 12月 25 18:17 /root/test8.sh
+-rwxr--r-- 1 root root  87 12月 25 18:46 /root/test9.sh
